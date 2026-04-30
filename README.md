@@ -52,4 +52,4 @@ jupyter notebook notebooks/TonyBlair_Ochieng_Uganda_final_project.ipynb
 
 - The notebook uses the ERA `Distribution` and `Network_Length` sheets from the provided Excel files.
 - GIS analysis reprojects line geometries to UTM for length calculations before mapping in WGS84.
-- The conclusion section now reflects the notebook results and statistical findings.
+- The conclusion section reflects the notebook results and statistical findings.
